@@ -1,5 +1,5 @@
 {
-  "name": "jsonmodel",
+  "name": "json-model",
   "version": "0.1.0",
   "description": "Simple json modeling language",
   "main": "src/index.js",
